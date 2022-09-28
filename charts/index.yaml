@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   my-app-name:
   - apiVersion: v1
-    created: "2022-09-28T16:18:47.637553-03:00"
-    digest: 7f3f01c8c3879abd846d23a95e0c168f292eec5ceeca63d4621d25ca91853228
+    created: "2022-09-28T17:03:04.307674-03:00"
+    digest: 91e3c8f96e417081d4b4a5beddf5a53735ebe55e0876e8497dde72ae9eddcd4d
     name: my-app-name
     urls:
     - my-app-name-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-28T16:18:47.63002-03:00"
+generated: "2022-09-28T17:03:04.30717-03:00"
