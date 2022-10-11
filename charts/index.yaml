@@ -2,17 +2,31 @@ apiVersion: v1
 entries:
   my-app-name:
   - apiVersion: v1
-    created: "2022-09-28T17:05:39.463729-03:00"
+    created: "2022-10-10T23:07:45.583173-03:00"
     digest: 17f0fbb4c52cc5bf3bfb14af869296734dc24ed87db6e5e6a9e603189c4217fe
     name: my-app-name
     urls:
     - my-app-name-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: "2022-09-28T17:05:39.463385-03:00"
+    created: "2022-10-10T23:07:45.582951-03:00"
     digest: 91e3c8f96e417081d4b4a5beddf5a53735ebe55e0876e8497dde72ae9eddcd4d
     name: my-app-name
     urls:
     - my-app-name-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-28T17:05:39.459808-03:00"
+  openshift-logforwarding-splunk:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-10-10T23:07:45.584123-03:00"
+    description: Log Forwarding from OpenShift to Splunk
+    digest: 63fb047a25a40efa3453ceef3fa17396bb01cf5a22bb2482c4cfa2d32ccf3ac5
+    home: https://github.com/redhat-cop/helm-charts
+    maintainers:
+    - email: andy.block@gmail.com
+      name: sabre1041
+    name: openshift-logforwarding-splunk
+    urls:
+    - openshift-logforwarding-splunk-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-10-10T23:07:45.582316-03:00"
